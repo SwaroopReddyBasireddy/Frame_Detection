@@ -5,4 +5,4 @@
 4. channel.m describes the calculation of the received symbols at the receiver as per (1.1) in Frame_detection.pdf .
 5. dec_sof_plus_pls_globla.m gives the calculation of the global SOF/PLS summation as per (1.5) - (1.9).
 6. frame.m describes the entire end to end process from generating symbols to calculatinf P_fa and P_md as per (1.11) and  
-   (1.12) to plotting the ROC curve for the receiver.
+  (1.12) to plotting the ROC curve for the receiver.
